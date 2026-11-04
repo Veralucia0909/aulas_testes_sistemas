@@ -1,0 +1,17 @@
+{
+  "name": "testes-unitarios-chaijs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "chai-http": "^5.1.2",
+    "jest": "^30.5.2"
+  }
+}
