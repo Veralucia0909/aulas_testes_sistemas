@@ -1,0 +1,15 @@
+{
+  "name": "testes_unitarios_calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest" },
+    
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
